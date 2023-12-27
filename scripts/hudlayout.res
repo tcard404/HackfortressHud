@@ -47,11 +47,11 @@
 		"wide"	"200"
 		"tall"	"160"
 		
-		"blue_active_xpos"			"16"
-		"blue_active_xpos_minmode"	"55"
+		"blue_active_xpos"			"106"
+		"blue_active_xpos_minmode"	"105"
 	
-		"red_active_xpos"			"106"
-		"red_active_xpos_minmode"	"105"
+		"red_active_xpos"			"16"
+		"red_active_xpos_minmode"	"55"
 	}	
 
 	HudItemEffectMeter
@@ -277,7 +277,7 @@
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
+		"xpos"		"c-100"
 		"ypos"		"250"
 		"wide"	 	"252"
 		"tall"	 	"35"
@@ -1154,7 +1154,7 @@
 		"fieldName"				"HudTournamentSetup"
 		"visible"				"0"
 		"enabled"				"1"
-		"xpos"					"c-90"
+		"xpos"					"c-7"
 		"ypos"					"-70"
 		"ypos_lodef"				"75"
 		"wide"					"180"
